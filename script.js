@@ -2,7 +2,7 @@ const container = document.getElementById("sections");
 
 // 🔤 Section titles + texts
 const captions = [
-  { title: "The Start", text: " first step — it all began here.", flicker: "First smile, " },
+  { title: "Our Gift", text: " We feel the Luckiest to have this Rockstar as our Friend.", flicker: "Luckiest" },
   { title: "School Days", text: "The pranks, the pals, the playground." },
   { title: "College Vibes", text: "Assignments and afterparties." },
   { title: "Best Friend Moments", text: "Bonds stronger than Wi-Fi." },
